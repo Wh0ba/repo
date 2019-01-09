@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: Wh0ba
+Label: Wh0ba
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: My Main Repository

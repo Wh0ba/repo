@@ -1,0 +1,30 @@
+<package>
+	<id>com.wh0ba.flips</id>
+	<name>Flips</name>
+	<version>1.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7</miniOS>
+			<maxiOS>11.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Floating IPS is a patcher for IPS and BPS files, you can use it to apply patches to roms like rom hacks and translations ported to iOS</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Original Source Code</name>
+			<url>https://www.github.com/alcaro/flips</url>
+			<iconclass>fa fa-github</iconclass>
+		<link/>
+	</links>
+</package>
