@@ -18,8 +18,9 @@
 	<screenshots></screenshots>
 	<links>
 		<link>
-			<name>Original Source Code</name>
-			<url>https://www.github.com/alcaro/flips</url>
-		<link/>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
 	</links>
 </package>
