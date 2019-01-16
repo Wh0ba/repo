@@ -17,5 +17,11 @@
 		<change>Initial release</change>
 	</changelog>
 	<screenshots></screenshots>
-	<links></links>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://www.github.com/alcaro/flips</url>
+			<iconclass>fa fa-github-square</iconclass>
+		<link/>
+	</links>
 </package>
