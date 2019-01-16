@@ -1,0 +1,20 @@
+<package>
+	<id>com.wh0ba.ytminibarx</id>
+	<name>YTMiniBarX</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Gives the YouTube Minibar some rounded corners </description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<screenshots></screenshots>
+	<links></links>
+</package>
