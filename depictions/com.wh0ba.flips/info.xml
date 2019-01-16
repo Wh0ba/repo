@@ -15,11 +15,6 @@
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>Original Source Code</name>
-			<url>https://www.github.com/alcaro/flips</url>
-			<iconclass>fa fa-github</iconclass>
-		<link/>
-	</links>
+	<screenshots></screenshots>
+	<links></links>
 </package>
