@@ -1,0 +1,25 @@
+<package>
+	<id>com.wh0ba.redditcache</id>
+	<name>RedditCache</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Diplays the cache size on the clear cache label on the offical reddit app</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<screenshots>
+	     <screenshot>
+			<description>The clear cache now includes size for the cache</description>
+			<image>reddit.png</image>
+		</screenshot>
+       </screenshots>
+	<links></links>
+</package>
