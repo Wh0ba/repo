@@ -1,1 +1,1 @@
-./dpkg-scanpackages debs/ /dev/null > Packages
+./dpkg-scanpackages -m debs/ /dev/null > Packages
