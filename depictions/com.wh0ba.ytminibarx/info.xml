@@ -15,6 +15,11 @@
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
-	<screenshots></screenshots>
+	<screenshots>
+	     <screenshot>
+			<description>Youtube mini bar with rounded corners </description>
+			<image>yt.jpg</image>
+		</screenshot>
+       </screenshots>
 	<links></links>
 </package>

@@ -1,7 +1,7 @@
 <package>
 	<id>com.wh0ba.ncfancy</id>
 	<name>NCFancy</name>
-	<version>0.1-2+debug</version>
+	<version>0.1.2-2+debug</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>10.1</maxiOS>
@@ -15,7 +15,7 @@
 		
 	</descriptionlist>
 	<changelog>
-		<change>Initial release</change>
+		<change>Shows only one card for iOS 10.3 rather than two </change>
 	</changelog>
 	<screenshots>
 	<screenshot>
