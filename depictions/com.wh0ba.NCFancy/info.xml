@@ -4,13 +4,14 @@
 	<version>0.1-2+debug</version>
 	<compatibility>
 		<firmware>
+			<maxiOS>10.1</maxiOS>
 			<maxiOS>10.2</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Replace the No Notifications label with cards that display storage info (for now) on your notification center</description>
+		<description>Replace the No Notifications label with cards that display storage info (for now) on your notification center (iOS 10 ONLY)</description>
 		
 	</descriptionlist>
 	<changelog>
