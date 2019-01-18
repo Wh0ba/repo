@@ -1,16 +1,35 @@
 
 body {
 	
-	background-color: black;
+	
+	
+	--bggl: #141e30;
+	--bggr: #243b55;
+	
+	background: -webkit-linear-gradient(to right, var(--bggl), var(--bggr));
+	background: linear-gradient(to right, var(--bggl), var(--bggr));   
+	
+	
+	
+}
+.page-header {
+	
+	font-family: "American Typewriter", serif;
+	
 	color: white;
 	
+}
+.title {
+	font-family: "American Typewriter", serif;
 	
+	
+	color: white;
 }
 
 .darkx {
 	
 	
-	color: #00CC74;
+	color: #000;
 	
 	
 }
