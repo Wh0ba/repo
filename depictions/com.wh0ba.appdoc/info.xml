@@ -1,0 +1,21 @@
+<package>
+	<id>com.wh0ba.appdoc</id>
+	<name>AppDoc</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.1</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Open an app’s documents directory by swiping up on its icon \nno options to configure</description>
+		<description>Source Code <br />https://www.github.com/wh0ba/appdoc</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<screenshots></screenshots>
+	<links></links>
+</package>

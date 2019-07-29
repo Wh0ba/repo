@@ -1,0 +1,21 @@
+<package>
+	<id>com.wh0ba.ofilza</id>
+	<name>oFilza</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.1</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Allows you to open documents and directories from the command line </description>
+		<description>Source Code <br />https://www.github.com/wh0ba/ofilza</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<screenshots></screenshots>
+	<links></links>
+</package>
