@@ -1,11 +1,11 @@
-Origin: MidnightChips Repo
-Label: MidnightChips Repo
+Origin: Wh0ba Repo
+Label: Wh0ba Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: MidnightChips Main Repo
+Description: Wh0ba’s Main Repo
 MD5Sum:
  267980648a1b246049ea7bffa06de6c43547 Packages
  91e257e5c979e7afa695f0c4073d6c7b1189 Packages.bz2

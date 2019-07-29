@@ -15,14 +15,14 @@ Packagesxzmd5=$(md5sum Packages.xz| cut -d ' ' -f 1)
 Packagessha256=$(openssl dgst -sha256 Packages| cut -d ' ' -f 2)
 Packagesbzsha256=$(openssl dgst -sha256 Packages.bz2| cut -d ' ' -f 2)
 Packagesxzsha256=$(openssl dgst -sha256 Packages.xz| cut -d ' ' -f 2)
-echo 'Origin: MidnightChips Repo
-Label: MidnightChips Repo
+echo 'Origin: Wh0ba Repo
+Label: Wh0ba Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: MidnightChips Main Repo
+Description: Wh0ba’s Main Repo
 MD5Sum:
  '$Packagesmd5''$PackagesBytes' Packages
  '$Packagesbzmd5''$PackagesbzBytes' Packages.bz2
