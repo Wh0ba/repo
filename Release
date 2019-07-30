@@ -1,17 +1,8 @@
-Origin: Wh0ba Repo
-Label: Wh0ba Repo
+Origin: Wh0ba
+Label: Wh0ba
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Wh0ba’s Main Repo
-MD5Sum:
- 267980648a1b246049ea7bffa06de6c43547 Packages
- 91e257e5c979e7afa695f0c4073d6c7b1189 Packages.bz2
- d9b5c822492231ee5d2b30a8097386fe1080 Packages.xz
-SHA256:
- 505edc98ec89ca1e028907da20328a5f11ffaa4fe222c8c5dbf75e5a2ad36b0c3547 Packages
- 9133330eee0b4ac84646fb57eae903bc5ba550dad6288fa799f81529115333121189 Packages.bz2
- 15ff3d8bd891e9d14a6be28cbc1d3bb32d3f12e58fba3cdd9b984189fe427f7a1080 Packages.xz
-
