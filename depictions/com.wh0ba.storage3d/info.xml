@@ -11,12 +11,17 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description>3D Touch the settings app icon to show your availble storage space</description>
-		<description>Source Code on <br /><a href="https://www.github.com/wh0ba/storage3d">GitHub</a></description>
 	</descriptionlist>
 	<changelog>
 		<change>Added icon</change>
 		<change>now opens the settings app to the storage managment page</change>
 	</changelog>
 	<screenshots></screenshots>
-	<links></links>
+	<links>
+	<link>
+			<name>Source Code</name>
+			<url>https://www.github.com/wh0ba/storage3d</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
 </package>
