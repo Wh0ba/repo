@@ -6,12 +6,3 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Wh0ba’s Main Repo
-MD5Sum:
- ae214313e364ba5e8e1a0ada928e9c1a4468 Packages
- 8fba1d27a5f1a79b6fdc8659c2273de41295 Packages.bz2
- a0b48ec78aff7dc461d84ef3a4f367991164 Packages.xz
-SHA256:
- 608db27efb2e0f766dce7abe14091656429f111237122c46cbce8e8a27fa76074468 Packages
- eb18f76a259395065429afd0849474512b1c2992b5bceeb591ef0ca63756821b1295 Packages.bz2
- e589fc8ede8778fb79d577823a716d6314ad8a915d683e3ef74f4ceb8788ef181164 Packages.xz
-
