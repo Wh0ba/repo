@@ -1,0 +1,21 @@
+<package>
+	<id>com.wh0ba.storage3d</id>
+	<name>Storage3D</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<otherVersions>does not work</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>3D Touch the settings app icon to show your availble storage space</description>
+		<description>Source Code <br />https://www.github.com/wh0ba/storage3d</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<screenshots></screenshots>
+	<links></links>
+</package>
