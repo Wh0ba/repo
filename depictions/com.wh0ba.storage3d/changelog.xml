@@ -3,4 +3,9 @@
 		<version>0.1</version>
 		<change>Initial release</change>
 	</changes>
+	<changes>
+		<version>0.2</version>
+		<change>Added icon</change>
+		<change>now opens the settings app to the storage managment page</change>
+	</changes>
 </changelog>
