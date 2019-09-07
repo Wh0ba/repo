@@ -12,4 +12,8 @@
 		<version>0.4</version>
 		<change>Added support for A12 (arm64e) thanks to u/Spxrk</change>
 	</changes>
+	<changes>
+		<version>0.5</version>
+		<change>fixed issue with icon position</change>
+	</changes>
 </changelog>
