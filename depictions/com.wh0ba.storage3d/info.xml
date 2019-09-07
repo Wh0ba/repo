@@ -1,7 +1,7 @@
 <package>
 	<id>com.wh0ba.storage3d</id>
 	<name>Storage3D</name>
-	<version>0.2</version>
+	<version>0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -13,8 +13,7 @@
 		<description>3D Touch the settings app icon to show your availble storage space</description>
 	</descriptionlist>
 	<changelog>
-		<change>Added icon</change>
-		<change>now opens the settings app to the storage managment page</change>
+		<change>Added support for A12 (arm64e) thanks to u/Spxrk</change>
 	</changelog>
 	<screenshots></screenshots>
 	<links>

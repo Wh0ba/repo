@@ -1,8 +1,0 @@
-Origin: Wh0ba Repo
-Label: Wh0ba Repo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Wh0ba’s Main Repo

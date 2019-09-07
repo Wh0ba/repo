@@ -117,6 +117,21 @@ Name: storage3d
 Author: Wh0ba <whappfanr@gmail.com>
 Depiction: https://wh0ba.github.io/repo/depictions/?p=com.wh0ba.storage3d
 
+Package: com.wh0ba.storage3d
+Version: 0.4
+Section: Tweaks
+Maintainer: Wh0ba <whappfanr@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.wh0ba.storage3d_0.4_iphoneos-arm.deb
+Size: 8782
+Installed-Size: 156
+MD5sum: 1951111cf85f55d3c596ceacf714bce7
+Description: 3D Touch the settings icon to see your available storage
+Name: storage3d
+Author: Wh0ba <whappfanr@gmail.com>
+Depiction: https://wh0ba.github.io/repo/depictions/?p=com.wh0ba.storage3d
+
 Package: com.wh0ba.ytminibarx
 Version: 0.1
 Section: Tweaks
