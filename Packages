@@ -13,6 +13,21 @@ Name: AppDoc
 Author: Wh0ba <whappfanr@gmail.com>
 Depiction: https://wh0ba.github.io/repo/depictions/?p=com.wh0ba.appdoc
 
+Package: com.wh0ba.edit3d
+Version: 0.1
+Section: Tweaks
+Maintainer: Wh0ba <whappfanr@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.wh0ba.edit3d_0.1_iphoneos-arm.deb
+Size: 6534
+Installed-Size: 136
+MD5sum: 54a81bf6dcbacdc3f97799cfc30b3112
+Description: Adds the "Rearrange Apps" action to the 3D Touch menu for all apps
+Name: edit3d
+Author: Wh0ba <whappfanr@gmail.com>
+Depiction: https://wh0ba.github.io/repo/depictions/?p=com.wh0ba.edit3d
+
 Package: com.wh0ba.flips
 Version: 1.1-3+debug
 Section: Utilities

@@ -1,0 +1,26 @@
+<package>
+	<id>com.wh0ba.edit3d</id>
+	<name>Edit3D</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<otherVersions>does not work</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Adds the "Rearrange Apps" action to the 3D Touch menu for all apps</description>
+	</descriptionlist>
+	<changelog>
+		<change>Inital release</change>
+	</changelog>
+	<screenshots></screenshots>
+	<links>
+	<link>
+			<name>Source Code</name>
+			<url>https://www.github.com/wh0ba/edit3d</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>
