@@ -177,6 +177,21 @@ Name: ytminibarx
 Author: Wh0ba <whappfanr@gmail.com>
 Depiction: https://wh0ba.github.io/repo/depictions/?p=com.wh0ba.ytminibarx
 
+Package: com.wh0ba.ytnogoogle
+Version: 0.1
+Section: Tweaks
+Maintainer: Wh0ba <whappfanr@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.wh0ba.ytnogoogle_0.1_iphoneos-arm.deb
+Size: 4366
+Installed-Size: 136
+MD5sum: 4ae47929b24d736de0dfd455a00feb30
+Description: prevents the YouTube app from the ability to detect and open the Google app to open URLs instead of opening Safari
+Name: YTNoGoogle
+Author: Wh0ba <whappfanr@gmail.com>
+Depiction: https://wh0ba.github.io/repo/depictions/?p=com.wh0ba.ytnogoogle
+
 Package: figlet
 Version: 0.1
 Section: Utilities

@@ -1,0 +1,26 @@
+<package>
+	<id>com.wh0ba.ytnogoogle</id>
+	<name>YTNoGoogle</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.1</miniOS>
+			<otherVersions>unconfirmied</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+			  <description>Prevents the YouTube app from detecting and opening the Google app to open URLs instead of opening Safari if you have the Google app installed</description>
+	</descriptionlist>
+	<changelog>
+		<change>Inital release</change>
+	</changelog>
+	<screenshots></screenshots>
+	<links>
+	<link>
+			<name>Source Code</name>
+			<url>https://www.github.com/wh0ba/ytnogoogle</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>
